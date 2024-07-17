@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "105802352988",
+    "firebase_url": "https://beauty-plus-spa-default-rtdb.firebaseio.com",
+    "project_id": "beauty-plus-spa",
+    "storage_bucket": "beauty-plus-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105802352988:android:95c5022c543c16aa789999",
+        "android_client_info": {
+          "package_name": "beautyplusspa.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpuqQV3LBwr7gs-iLZ1q46zq-XJ8juhfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
