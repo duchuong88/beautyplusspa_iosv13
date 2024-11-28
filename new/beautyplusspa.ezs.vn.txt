@@ -1,0 +1,23 @@
+    hn.beautyplusspa@gmail.com
+    12345678A@
+    0818822855
+    1/1/2000
+    nữ
+    trangbeautyplus8689@gmail.com
+
+
+
+
+
+BDK3199rA8lgwOGzIqM969vzAMZyv9Cbw5jhsRZrhPCFL-pxi23XLHHaoXa-mQMlI-kQith5o55QaBCAhZBJzvg
+
+
+
+  apiKey: "AIzaSyDHqNFIeKD9GCWoVA4FUeoFebdbXSchUrA",
+  authDomain: "beauty-plus-c401c.firebaseapp.com",
+  databaseURL: "https://beauty-plus-c401c-default-rtdb.firebaseio.com",
+  projectId: "beauty-plus-c401c",
+  storageBucket: "beauty-plus-c401c.appspot.com",
+  messagingSenderId: "207819850258",
+  appId: "1:207819850258:web:ca31e2ad14f3b473f90ecb",
+  measurementId: "G-HB9W367ZSB"
